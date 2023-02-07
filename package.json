@@ -1,0 +1,20 @@
+{
+  "name": "web-development-course-capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZewdieMc/web-development-course-capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZewdieMc/web-development-course-capstone/issues"
+  },
+  "homepage": "https://github.com/ZewdieMc/web-development-course-capstone#readme"
+}
