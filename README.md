@@ -111,7 +111,7 @@ Have a look at [this presentation](https://www.loom.com/share/cb3e7a960be04030a8
 
 <!-- > Click the live demo to access the application. -->
 
-- [Live Demo Link](https://zewdiemc.github.io/Portfolio/)
+- [Live Demo](https://zewdiemc.github.io/web-development-course-capstone/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
