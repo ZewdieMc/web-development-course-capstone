@@ -200,17 +200,6 @@ You can deploy this project using:
 - Twitter: [@HabtieZewdie](https://twitter.com/HabtieZewdie)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/zewdie-habtie-sisay-947153172)
 
-👤 **Yosef Geda**
-
-- GitHub: [Yosef](https://github.com/Yosefgeda)
-- Twitter: [Yosef](https://twitter.com/AmaneulBe)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ameneul-b-5545)
-
-👤 **Shubham Bhoyar**
-
-- GitHub: [Shubham](https://github.com/shubhambhoyar077)
-- Twitter: [Shubham](https://twitter.com/AmaneulBe)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ameneul-b-5545)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
