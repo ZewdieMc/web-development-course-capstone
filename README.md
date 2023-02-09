@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 
 **Web Developers Conference** is a project created to showcase the skills and knowledge I gained in Microverse Module 1.
-Have a look at [this presentation](https://www.loom.com/share/cb3e7a960be04030a818d5faea4feafc) for more detail.
+Have a look at [this presentation](https://www.loom.com/share/7b8844f737144421b5ff37b3551e369f) for more detail.
 
 ## 🛠 Built With <a name="built-with"></a>
 
