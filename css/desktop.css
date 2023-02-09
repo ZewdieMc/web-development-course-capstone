@@ -135,7 +135,6 @@ header img {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
-  justify-items: center;
   margin: 1rem 1rem;
 }
 
