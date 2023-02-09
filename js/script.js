@@ -13,7 +13,7 @@ closeMenu.addEventListener('click', () => {
 
 const speakers = [
   {
-    image: '../images/speaker_01.png',
+    image: './images/speaker_01.png',
     name: 'Yohai Benkler',
     designation: 'Harvard Law School Professor',
     about: `
@@ -21,7 +21,7 @@ const speakers = [
     `,
   },
   {
-    image: '../images/speaker_02.png',
+    image: './images/speaker_02.png',
     name: 'Soyoung Noh',
     designation: 'Art Center Nabi Director, CC Korea Director',
     about: `
@@ -30,7 +30,7 @@ const speakers = [
     `,
   },
   {
-    image: '../images/speaker_03.png',
+    image: './images/speaker_03.png',
     name: 'Lyla Treticov',
     designation: 'Secretary General of the Wikimedia Foundation',
     about: `
@@ -39,7 +39,7 @@ const speakers = [
     `,
   },
   {
-    image: '../images/speaker_04.png',
+    image: './images/speaker_04.png',
     name: 'Gilnam Jeon',
     designation: 'Korea Advanced Institute of Science and Technology (KAIST) Emeritus Professor',
     about: `
@@ -48,7 +48,7 @@ const speakers = [
     `,
   },
   {
-    image: '../images/speaker_05.png',
+    image: './images/speaker_05.png',
     name: 'Julia Leda',
     designation: 'Representative of the Young Pirates of Europe',
     about: `
@@ -57,7 +57,7 @@ const speakers = [
     `,
   },
   {
-    image: '../images/speaker_06.png',
+    image: './images/speaker_06.png',
     name: 'Ryan Merkly',
     designation: 'Creative Commons CEO, former Mozilla Foundation COO',
     about: `
